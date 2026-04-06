@@ -18,9 +18,6 @@ dist/
 *.ipynb_checkpoints
 
 # Generated outputs — keep folder structure, ignore images
-outputs/figures/*.png
-outputs/figures/*.jpg
-outputs/figures/*.svg
 
 # Data — keep data directory structure
 # Uncomment if you want to ignore large data files:
