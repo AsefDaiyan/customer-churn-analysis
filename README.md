@@ -70,7 +70,7 @@ customer-churn-analysis/
 ### 1. Clone the repository
 
 ```bash
-git clone https://github.com/AhmedAsefDaiyanChowdhury/customer-churn-analysis.git
+git clone https://github.com/AsefDaiyan/customer-churn-analysis.git
 cd customer-churn-analysis
 ```
 
